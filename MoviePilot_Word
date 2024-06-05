@@ -1,0 +1,8 @@
+#鬼灭之刃 柱训练篇
+#Tensei Shitara Slime Datta Ken 2nd Season - (\d{1,2}) .* => 关于我转生变成史莱姆这档事.S2 E\1 {[tmdbid=82684;type=tv;]} && 关于我转生变成史莱姆这档事.S2 E <>  >> EP-24
+#[BeanSub&FZSD][Kimetsu_no_Yaiba][57][GB][1080P][x264_AAC].mp4
+
+\[BeanSub\&FZSD\]\[Kimetsu\_no\_Yaiba\]  =>  {[tmdbid=85937;type=tv;s=5]} \[BeanSub\&FZSD\]\[Kimetsu\_no\_Yaiba\]   &&  \]\[  <> \]\[GB\]  >> EP-55
+
+#\[BeanSub\&FZSD\]\[Kimetsu\_no\_Yaiba\]\[(\d{1,2}).* => 鬼灭之刃 柱训练篇 S5 E\1 {[tmdbid=85937;type=tv;s=5]} && 鬼灭之刃 柱训练篇 S5 E <>  >> EP-55
+Hashira Geiko-hen => {[tmdbid=85937;type=tv;s=5]}
